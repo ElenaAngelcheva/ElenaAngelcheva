@@ -5,7 +5,7 @@
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/@ELENA_ANGELCHEVA">
+  <a href="https://instagram.com/elena_angelcheva?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/Instagram-c71585?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/Ang_ev">
