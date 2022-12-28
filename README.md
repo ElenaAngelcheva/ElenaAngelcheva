@@ -13,5 +13,6 @@
   </a>
 </div>
 <div id="badges">
-  <img src="https://angelcheva.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
