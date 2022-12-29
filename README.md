@@ -7,9 +7,9 @@
 ---
 :woman_technologist: Обо мне : Меня зовут Лена, я QA Engineer в данный момент проживаю на Кипре.
 - :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python.
-- :telescope: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
-- :seedling: Резюме
-- :mailbox: Как меня найти: <div id="badges" align="center">
+- :computer: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
+- :scroll: Резюме
+- :mailbox_with_mail: Как меня найти: <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -44,6 +44,6 @@
 
   ---
   
- :hammer_and_wrench: Пример работы:
+ :briefcase:Пример работы:
   
   
