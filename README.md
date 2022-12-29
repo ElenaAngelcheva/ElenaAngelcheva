@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/200w.webp" width="100"/>
+  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/200w.webp"  width="600" height="300"/>
 </div>
 
 
