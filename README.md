@@ -35,7 +35,7 @@
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/gitlab.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/sql.png" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
