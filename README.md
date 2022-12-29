@@ -5,10 +5,10 @@
 
 
 ---
-:woman_technologist: About Me : Меня зовут Лена, я QA Engineer в данный момент проживаю на Кипре в городе Лимассол.
+:woman_technologist: Общ мне : Меня зовут Лена, я QA Engineer в данный момент проживаю на Кипре.
 - :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python.
-- :telescope:
-- :seedling:
+- :telescope: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
+- :seedling: Резюме
 - :mailbox: Как меня найти: 
 
 <div id="badges">
@@ -23,7 +23,7 @@
   </a>
 
   ---
-  :hammer_and_wrench: Languages and Tools :
+  :hammer_and_wrench: Языки и инстрменты:
   <div>
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp; 
