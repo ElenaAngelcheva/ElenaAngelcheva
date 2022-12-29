@@ -7,6 +7,7 @@
 <div id="badges" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 :woman_technologist: About Me : Меня зовут Лена, я QA Engineer в данный момент проживаю на Кипре в городе Лимассол.
 - :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python.
@@ -35,7 +36,7 @@
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/gitlab.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/sql.png" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
