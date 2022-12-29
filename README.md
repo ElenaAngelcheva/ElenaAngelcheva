@@ -9,9 +9,7 @@
 - :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python.
 - :telescope: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
 - :seedling: Резюме
-- :mailbox: Как меня найти: 
-
-<div id="badges">
+- :mailbox: Как меня найти: <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -43,3 +41,9 @@
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/android-studio.png" title="Android-studio" alt="Android-studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/appium.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;  
 </div>
+
+  ---
+  
+ :hammer_and_wrench: Пример работы:
+  
+  
