@@ -1,15 +1,14 @@
 
-<div id="header" align="center">
-  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/giphy.gif" width="100"/>
+<div id="header">
+  <img src="https://camo.githubusercontent.com/90ab49fab22ccf54524bc2d89c5a8f2d035b9cf5a2e6ac7e3bf2dfd805d03328/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f683733685a7436457953346b704d5452526a2f67697068792e676966"  width="200" height="200"/>
 </div>
 
 
 ---
-:woman_technologist: Общ мне : Меня зовут Лена, я QA Engineer в данный момент проживаю на Кипре.
-- :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python.
-- :telescope: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
-- :seedling: Резюме
-- :mailbox: Как меня найти: <div id="badges" align="center">
+:woman_technologist: About Me : My name is Lena, I am QA Engineer currently residing in Cyprus.
+- :zap: I have more than 3 years of experience in manual testing, as well as experience in auto testing in Python.
+- :computer: Professional competencies in creating quality assurance processes and test documentation.
+- :mailbox_with_mail: How to reach me: <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,7 +20,7 @@
   </a>
 
   ---
-  :hammer_and_wrench: Языки и инстрменты:
+  :hammer_and_wrench: Languages and Tools:
   <div>
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp; 
@@ -44,6 +43,6 @@
 
   ---
   
- :hammer_and_wrench: Пример работы:
+ :briefcase:Example of work:
   
   
