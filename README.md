@@ -8,7 +8,7 @@
 :woman_technologist: About Me : My name is Lena, I am QA Engineer currently residing in Cyprus.
 - :zap: I have more than 3 years of experience in manual testing, as well as experience in auto testing in Python.
 - :computer: Professional competencies in creating quality assurance processes and test documentation.
-- :scroll: Resume
+#- :scroll: Resume
 - :mailbox_with_mail: How to reach me: <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
