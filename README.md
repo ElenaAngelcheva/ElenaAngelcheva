@@ -43,7 +43,9 @@
 
   ---
   
- :briefcase:Example of work: <a href="https://github.com/ElenaAngelcheva/autotests_project_for_testrail">Project UI and API autotests for TestRail</a>
+ :briefcase:Example of work: 
+  
+ <a href="https://github.com/ElenaAngelcheva/autotests_project_for_testrail">Project UI and API autotests for TestRail</a>
   
   
   
