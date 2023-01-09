@@ -44,7 +44,7 @@
   
  :briefcase: Пример работы: 
   
- <a href="https://github.com/ElenaAngelcheva/autotests_project_for_testrail">Project UI and API autotests for TestRail</a>
+ <a href="https://github.com/ElenaAngelcheva/autotests_project_for_testrail">Проект UI и API автотестов для TestRail</a>
   
   
   
