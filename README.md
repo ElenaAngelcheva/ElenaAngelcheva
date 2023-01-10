@@ -7,6 +7,7 @@
 ---
 :woman_technologist: Обо мне: Меня зовут Лена, я QA Engineer.
 - :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python
+- :bookmark_tabs: <a href="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/cv.pdf">Резюме
 - :mailbox_with_mail: Как меня найти: <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
