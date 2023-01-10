@@ -5,10 +5,9 @@
 
 
 ---
-:woman_technologist: About Me : My name is Lena, I am QA Engineer currently residing in Cyprus.
-- :zap: I have more than 3 years of experience in manual testing, as well as experience in auto testing in Python.
-- :computer: Professional competencies in creating quality assurance processes and test documentation.
-- :mailbox_with_mail: How to reach me: <div id="badges" align="center">
+:woman_technologist: Обо мне: Меня зовут Лена, я QA Engineer.
+- :zap: У меня более 3-х лет опыта ручного тестирования, а также опыт автотестирования на Python
+- :mailbox_with_mail: Как меня найти: <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/angelcheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,7 +19,7 @@
   </a>
 
   ---
-  :hammer_and_wrench: Languages and Tools:
+  :hammer_and_wrench: Языки и инструменты:
   <div>
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp; 
@@ -43,6 +42,10 @@
 
   ---
   
- :briefcase:Example of work:
+ :briefcase: Пример работы: 
+  
+ <a href="https://github.com/ElenaAngelcheva/autotests_project_for_testrail">Проект UI и API автотестов для TestRail</a>
+  
+  
   
   
