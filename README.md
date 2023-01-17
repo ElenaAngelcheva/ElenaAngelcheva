@@ -30,9 +30,7 @@
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/gitlab.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/sql.png" title="Sql" alt="Sql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/sqlalchemy.svg" title="Sqlalchemy" alt="Sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaAngelcheva/ElenaAngelcheva/blob/main/img/logos/Allure.svg" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
